@@ -39,3 +39,15 @@ int main() {
 - Oyunun başında yılanın hareketi yoktur. Kullanıcı bir tuşa basana kadar bekler.
 - Yılanın hareketi, klavyeden alınan tuşlara göre belirlenir.
 - Windows için `Sleep` fonksiyonu kullanılarak oyunun hızı kontrol edilir.
+
+
+
+# Ekran Resmi
+![zyrasoftware](kodde1.png)
+
+# Bilgilendirme
+**---------------------------------------------------------**
+| Herkese Açık | Geliştirilebilir | Zyra Software|
+|---------|---------|---------|
+| Açık | Geliştirilebilir |@zyrasoftware |
+
